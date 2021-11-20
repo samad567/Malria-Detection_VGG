@@ -84,9 +84,9 @@ seaborn
 Send2Trash
 six
 sklearn
-tensorboard==2.5.0
+tensorboard==2.2.0
 tensorboard-plugin-wit
-tensorflow==2.5.0
+tensorflow==2.2.0
 tensorflow-estimator
 termcolor
 terminado
