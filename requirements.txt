@@ -49,7 +49,7 @@ nbformat
 notebook
 numpy
 oauthlib
-opencv-python
+opencv-python==4.4.0
 opt-einsum
 packaging
 pandas
@@ -61,7 +61,7 @@ pickleshare
 Pillow
 prometheus-client
 prompt-toolkit
-protobuf
+protobuf==3.9.0
 ptyprocess
 pyasn1
 pyasn1-modules
