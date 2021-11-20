@@ -3,7 +3,6 @@ Flask-Cors==3.0.8
 importlib-metadata==1.6.0
 jsonify==0.5
 jsonschema==3.2.0
-Keras-Preprocessing==1.1.2
 kiwisolver==1.2.0
 lxml==4.5.1
 Markdown==3.2.2
@@ -11,9 +10,7 @@ MarkupSafe==1.1.1
 matplotlib==3.2.1
 numpy
 oauthlib==3.1.0
-opencv-python==4.4.0.46
-opt-einsum==3.3.0
-packaging==20.4
+opencv-python==4.3.0.48
 pandas
 pickleshare==0.7.5
 scikit-learn==0.23.1
