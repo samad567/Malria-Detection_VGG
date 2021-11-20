@@ -61,7 +61,7 @@ pickleshare
 Pillow
 prometheus-client
 prompt-toolkit
-protobuf==3.9.0
+protobuf==3.9.2
 ptyprocess
 pyasn1
 pyasn1-modules
@@ -84,9 +84,9 @@ seaborn
 Send2Trash
 six
 sklearn
-tensorboard==2.2.0
+tensorboard
 tensorboard-plugin-wit
-tensorflow==2.2.0
+tensorflow==2.5.0
 tensorflow-estimator
 termcolor
 terminado
