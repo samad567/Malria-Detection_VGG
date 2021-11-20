@@ -20,8 +20,7 @@ scikit-learn==0.23.1
 scipy
 six==1.15.0
 tensorboard
-tensorflow==2.2.0
-tensorflow-estimator==2.2.0
+tensorflow==2.5.0
 webencodings==0.5.1
 Werkzeug==1.0.1
 widgetsnbextension==3.5.1
