@@ -10,7 +10,7 @@ MarkupSafe==1.1.1
 matplotlib==3.2.1
 numpy
 oauthlib==3.1.0
-opencv-python==4.3.0.48
+opencv-python==4.3.0.38
 pandas
 pickleshare==0.7.5
 scikit-learn==0.23.1
